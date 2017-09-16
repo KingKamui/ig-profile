@@ -1,19 +1,52 @@
-head{
-	background: transparent url("images/top-bar.png");
-	height:145;
-    }
+
 body
-{
-background-color:white
-}
-
-
-
-
-
+  {
+  text-align: center;
+  background-color:white
+  }
 #container
-{ 
-  align:center;
-  width:100px;
-  height:100px;
-}
+  {
+  margin: auto;
+  width:50%;
+  background-color: white;
+  border:3px black;
+  height:1080px;
+  }
+
+head
+  {
+  background: transparent url("images/top-bar.png");
+  height:145px;
+  }
+
+#username
+  {
+  margin: auto;
+  }
+
+#follower-count
+  {
+  height:355px;	
+  background: transparent url("images/follower-count.png")
+  }
+
+#profile-picture
+  {
+  height:255px;
+  width:255px;
+  margin-top: 
+  margin-left:;
+  }
+
+#photo-bar
+  {
+  background: transparent url("images/photo-bar.png");
+  height:140px;
+  }
+
+#bottom-bar
+  {
+  background: transparent url("images/photo-bar.png");
+  height: 135px;
+  }
+
